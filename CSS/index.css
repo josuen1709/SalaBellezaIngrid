@@ -34,7 +34,7 @@
 }
 
 .center-text {
-    height: 400px;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,7 +43,7 @@
 /*multimedia*/
 
 .center-audio {
-    height: 300px;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
