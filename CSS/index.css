@@ -32,3 +32,19 @@
 #mapa{
     background-color: #BDC3C7 ;
 }
+
+.center-text {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*multimedia*/
+
+.center-audio {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
